@@ -22,10 +22,10 @@ Visualization of:-   True nonlinear system, Volterra approximation,  RTBM approx
                  │
         ┌────────┴────────┐
         │                 │
-    True Nonlinear      Volterra / RTBM
-      System               Model
-        │                   │
-      d(n)                y(n)
+    True Nonlinear      Volterra / RTBM                        x(n) → input signal
+      System               Model                               d(n) → true system output
+        │                   │                                  y(n) → estimated model output
+      d(n)                y(n)                                 e(n) → identification error
         └────────┬──────────┘
                  ▼
               Error e(n)

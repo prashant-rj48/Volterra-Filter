@@ -33,7 +33,7 @@ Visualization of:-   True nonlinear system, Volterra approximation,  RTBM approx
 ***
 
 ## Nonlinear System (g3)
-             g3 = exp(0.5*x) .* ( sin(pi*x) + 0.3*sin(3*pi*x) + 0.1*sin(5*pi*x) 
+ g3 = exp(0.5*x) .* ( sin(pi*x) + 0.3*sin(3*pi*x) + 0.1*sin(5*pi*x) );
 
 
 

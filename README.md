@@ -50,6 +50,15 @@ The filter minimizes Mean Squared Error (MSE):-                  J=∑(d−y)^2
 Limitation:-       e^2 ≫ 1
 
 
+## Applyed Volterra on g3 
+
+### Order = 15 
+
+<img width="618" height="491" alt="image" src="https://github.com/user-attachments/assets/d88b766c-1e0d-4ebb-bd5d-f148278d0412" />
+
+### Order = 8
+
+<img width="1566" height="276" alt="image" src="https://github.com/user-attachments/assets/68e998b2-fe5c-4c87-a8a3-d7fd8f11ede7" />
 
 
 

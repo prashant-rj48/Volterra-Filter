@@ -80,6 +80,14 @@ Large spike errors → ignored
 
 
 
+## Now we add some spikes in g3 and calculate Error
+
+<img width="612" height="492" alt="image" src="https://github.com/user-attachments/assets/ab30e4be-43ba-4cb9-8cc1-dfe6a591bc99" />
+
+ ## Error :- 
+
+<img width="242" height="77" alt="image" src="https://github.com/user-attachments/assets/15215ad1-d91a-431a-b796-1ff6856a39ab" />
+
 
 
               

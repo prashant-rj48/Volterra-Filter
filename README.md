@@ -38,7 +38,7 @@ Visualization of:-   True nonlinear system, Volterra approximation,  RTBM approx
   <img width="327" height="82" alt="Screenshot 2026-05-11 163458" src="https://github.com/user-attachments/assets/31c622c2-bd72-4646-8402-703e21fc7df3" />
 
 
-****
+**
 
 # Volterra Filter
 The Volterra filter approximates the nonlinear system using polynomial expansion:

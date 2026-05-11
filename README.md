@@ -18,7 +18,7 @@ Visualization of:-   True nonlinear system, Volterra approximation,  RTBM approx
 ***
 ## System Identification
 
-                x(n)
+  x(n)
                  │
         ┌────────┴────────┐
         │                 │
@@ -29,7 +29,7 @@ Visualization of:-   True nonlinear system, Volterra approximation,  RTBM approx
         └────────┬──────────┘
                  ▼
               Error e(n)
-
+             
 
 
               

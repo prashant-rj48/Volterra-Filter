@@ -34,7 +34,8 @@ Visualization of:-   True nonlinear system, Volterra approximation,  RTBM approx
 
 ## Nonlinear System (g3)
   <img width="552" height="43" alt="image" src="https://github.com/user-attachments/assets/c14023fc-b684-429c-ba17-46247780e584" />
-      <img width="327" height="82" alt="Screenshot 2026-05-11 163458" src="https://github.com/user-attachments/assets/31c622c2-bd72-4646-8402-703e21fc7df3" />
+  
+  <img width="327" height="82" alt="Screenshot 2026-05-11 163458" src="https://github.com/user-attachments/assets/31c622c2-bd72-4646-8402-703e21fc7df3" />
 
 
 

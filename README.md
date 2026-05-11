@@ -95,6 +95,62 @@ The Mean Absolute Error (MAE) is computed as:
 
 <img width="252" height="63" alt="image" src="https://github.com/user-attachments/assets/16a8834b-73ba-4d71-95cc-84ea0062961e" />
 
+***
+# Experimental Observation
+
+## Experimental Observation
+
+Attempts to fit spike noise
+
+Curve becomes distorted
+
+Higher estimation error
+
+Sensitive to impulsive disturbances
+
+## RTBM Volterra
+
+Suppresses spike influence
+
+Ignores outliers
+
+Preserves original nonlinear shape
+
+Lower estimation error
+
+
+***
+
+
+
+# Applications
+
+Nonlinear system identification
+
+Adaptive filtering
+
+Robust signal processing
+
+Audio system modeling
+
+Loudspeaker nonlinearities
+
+Communication systems under impulsive noise
+
+Sensor corruption analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
               

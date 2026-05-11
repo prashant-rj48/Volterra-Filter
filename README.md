@@ -30,6 +30,21 @@ Visualization of:-   True nonlinear system, Volterra approximation,  RTBM approx
                  ▼
               Error e(n)
              
+***
+
+## Nonlinear System (g3):
+
+
+
+# Volterra Filter
+The Volterra filter approximates the nonlinear system using polynomial expansion:
+
+<img width="421" height="37" alt="image" src="https://github.com/user-attachments/assets/881708d8-8843-4bbf-afad-89376296bfa7" />
+
+
+
+
+
 
 
               

@@ -45,6 +45,7 @@ The Volterra filter approximates the nonlinear system using polynomial expansion
 
 <img width="421" height="37" alt="image" src="https://github.com/user-attachments/assets/881708d8-8843-4bbf-afad-89376296bfa7" />
 
+The filter minimizes Mean Squared Error (MSE):-        <img width="180" height="43" alt="image" src="https://github.com/user-attachments/assets/f4e4ad9c-3b24-49f6-81a1-1c7c8c35c152" />
 
 
 

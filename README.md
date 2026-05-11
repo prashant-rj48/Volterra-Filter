@@ -18,11 +18,11 @@ Visualization of:-   True nonlinear system, Volterra approximation,  RTBM approx
 ***
 ## System Identification
 
-  x(n)
+              x(n)
                  │
         ┌────────┴────────┐
         │                 │
-   True Nonlinear      Volterra / RTBM
+    True Nonlinear      Volterra / RTBM
       System               Model
         │                   │
       d(n)                y(n)

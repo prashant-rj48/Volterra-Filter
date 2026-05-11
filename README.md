@@ -89,5 +89,12 @@ Large spike errors → ignored
 <img width="242" height="77" alt="image" src="https://github.com/user-attachments/assets/15215ad1-d91a-431a-b796-1ff6856a39ab" />
 
 
+## Error Calculation:-            
+
+The Mean Absolute Error (MAE) is computed as:
+
+<img width="252" height="63" alt="image" src="https://github.com/user-attachments/assets/16a8834b-73ba-4d71-95cc-84ea0062961e" />
+
+
 
               
